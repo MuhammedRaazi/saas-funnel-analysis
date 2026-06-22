@@ -16,6 +16,7 @@ The analysis tracks user progression from website visit to paid subscription, id
 ## Tools Used
 
 - SQL
+- Python
 - Excel
 - Tableau
 
