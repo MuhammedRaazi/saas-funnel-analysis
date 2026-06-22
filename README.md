@@ -35,7 +35,7 @@ The analysis tracks user progression from website visit to paid subscription, id
 - Largest drop-offs occurred during product activation and trial-to-paid conversion stages.
 - Tablet and Desktop users showed higher conversion rates than Mobile users.
 - Pro Plan is the largest revenue driver, contributing more revenue than both Enterprise and Basic plans.
--Organic Search achieved the highest conversion rate among acquisition channels.
+- Organic Search achieved the highest conversion rate among acquisition channels.
 - Customer retention remained relatively stable across monthly cohorts.
 
 
