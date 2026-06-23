@@ -47,3 +47,8 @@ The analysis tracks user progression from website visit to paid subscription, id
 - Focus marketing spend on high-converting acquisition channels.
 - Improve mobile user experience.
 - Promote premium subscription plans through targeted upselling.
+
+## 📊 Live Dashboard
+[![SaaS Funnel Analytics](https://img.shields.io/badge/Dashboard-SaaS%20Funnel%20Analytics-3FB950?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_LINK_HERE)
+
+> Interactive board-ready insight report built with Claude — analyzing 7,200 user records across funnel drop-off, revenue, retention, and channel ROI.
